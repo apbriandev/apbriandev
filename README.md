@@ -22,8 +22,8 @@ Software Developer specializing in modern web architectures and scalable fronten
 
 ### 🛠️ Technical Stack
 
-- **Languages & Frameworks:** JavaScript, React, Vite, HTML, CSS, TailwindCSS.
-- **Backend & Tools:** Firebase, SQL, PHP, Git, GitHub Actions.
+- **Languages & Frameworks:** JavaScript, React, Next.js, Vite, HTML, CSS, TailwindCSS.
+- **Backend & Tools:** Firebase, SupaBase, SQL, PHP, Git, GitHub Actions.
 - **Platforms:** WordPress, Elementor, Hostinger.
 
 ---
